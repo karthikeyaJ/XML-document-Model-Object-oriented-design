@@ -1,0 +1,3 @@
+:run.bat
+.\Debug\Exec.exe LectureNote.xml fileinput
+.\Debug\Exec.exe "<?xml version="1.0" encoding="utf-8"?><!-- XML test case --><LectureNote course="CSE681"><title>XML Example #1</title><reference><title>Programming Microsoft .Net</title><author>Jeff Prosise <note Company='Wintellect'></note></author><publisher>Microsoft Press</publisher><date>2002</date><page>608</page></reference><comment>Description of PCDATA</comment></LectureNote>" string

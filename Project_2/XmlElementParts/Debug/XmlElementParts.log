@@ -1,0 +1,20 @@
+﻿Build started 3/30/2015 2:27:40 PM.
+     1>Project "C:\Users\venkatakarthikeya\Desktop\prj2\Project_2\XmlElementParts\XmlElementParts.vcxproj" on node 5 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D TEST_XMLELEMENTPARTS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\Display\Display.cpp ..\XmlElement\XmlElement.cpp Tokenizer.cpp xmlElementParts.cpp
+         xmlElementParts.cpp
+         Tokenizer.cpp
+         XmlElement.cpp
+         Display.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\venkatakarthikeya\Desktop\prj2\Project_2\Debug\XmlElementParts.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\venkatakarthikeya\Desktop\prj2\Project_2\Debug\XmlElementParts.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\venkatakarthikeya\Desktop\prj2\Project_2\Debug\XmlElementParts.lib" /MACHINE:X86 /SAFESEH:NO Debug\Display.obj
+         Debug\XmlElement.obj
+         Debug\Tokenizer.obj
+         Debug\xmlElementParts.obj
+         XmlElementParts.vcxproj -> C:\Users\venkatakarthikeya\Desktop\prj2\Project_2\Debug\XmlElementParts.exe
+     1>Done Building Project "C:\Users\venkatakarthikeya\Desktop\prj2\Project_2\XmlElementParts\XmlElementParts.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.05
